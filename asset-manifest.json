@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hanseiPoint/static/css/main.518570db.css",
-    "main.js": "/hanseiPoint/static/js/main.bd2fdffb.js",
+    "main.js": "/hanseiPoint/static/js/main.49a71e2c.js",
     "static/js/787.302f5e9b.chunk.js": "/hanseiPoint/static/js/787.302f5e9b.chunk.js",
     "index.html": "/hanseiPoint/index.html",
     "main.518570db.css.map": "/hanseiPoint/static/css/main.518570db.css.map",
-    "main.bd2fdffb.js.map": "/hanseiPoint/static/js/main.bd2fdffb.js.map",
+    "main.49a71e2c.js.map": "/hanseiPoint/static/js/main.49a71e2c.js.map",
     "787.302f5e9b.chunk.js.map": "/hanseiPoint/static/js/787.302f5e9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.518570db.css",
-    "static/js/main.bd2fdffb.js"
+    "static/js/main.49a71e2c.js"
   ]
 }
