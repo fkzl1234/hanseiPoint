@@ -18,22 +18,22 @@
 메인페이지
 ---
 >처음 접속했을때 화면입니다. 로그인 페이지와 적립 회원가입 페이지로 이동할수있습니다.
-![스크린샷 2024-04-25 143423](https://github.com/fkzl1234/hanseiPoint/assets/71959911/c6242dd2-0dc2-4cea-a9d2-cf17d0cd6966)
+![메인화면](https://github.com/fkzl1234/hanseiPoint/assets/71959911/51a8c971-4ff8-4e58-a759-60f5e03dd8ab)
 
 ---
 회원가입 페이지
 ---
 >휴대폰 번호와,이름,비밀번호를 입력하면 로그인창으로 이동할수있습니다.
-![image](https://github.com/yang-juncheol/hansei-point/assets/130765023/a90d6807-4d4d-4248-93e2-96e2c3b63d34)
+![회원가입](https://github.com/fkzl1234/hanseiPoint/assets/71959911/50cc94a6-7b61-46dc-9efc-6537c1c806ab)
 ---
 로그인 페이지
 ---
 >회원가입된 전화번호와 패스워드로 로그인할수있습니다. 회원가입 페이지로 넘어갈수있습니다.
-![image](https://github.com/yang-juncheol/hansei-point/assets/130765023/64fcf650-3e8e-4674-901d-4ae753eccd28)
+![로그인](https://github.com/fkzl1234/hanseiPoint/assets/71959911/e84910be-d4da-466c-b10f-e29c2c1cdb06)
 
 ---
 적립 페이지
 ---
 >마우스로 클릭해 전화번호를 넣어서 자신의 계정에 포인트를 적립시킬수있습니다.
-![image](https://github.com/yang-juncheol/hansei-point/assets/130765023/08f763a1-c8d2-4eea-b0d4-8e356e6310d4)
+![적립](https://github.com/fkzl1234/hanseiPoint/assets/71959911/56438711-276e-4cb5-8dfd-45ab5bba5cee)
 
